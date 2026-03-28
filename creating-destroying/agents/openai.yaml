@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creating and Destroying"
+  short_description: "Java object creation and cleanup guidance"
+  default_prompt: "Use $creating-destroying to review or design Java code for object creation, dependency injection, cleanup, and resource handling."
